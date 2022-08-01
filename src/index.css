@@ -324,3 +324,10 @@ ul {
 .Toastify__toast {
   text-transform: capitalize;
 }
+.custom-logo {
+  border-radius: 25px;
+  background: #73ad21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
